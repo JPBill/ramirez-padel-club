@@ -16,7 +16,7 @@
 
 ### Links
 
-- Live Site URL: [(https://complejopadelramirez.com)]
+- Live Site URL: https://complejopadelramirez.com
 
 ## My process
 
