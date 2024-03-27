@@ -3,7 +3,7 @@ import styles from '../style';
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-300">
+    <footer className="bg-gray-200">
       <div className={`${styles.boxWidth} ${styles.paddingX} py-8`}>
         <div className="flex flex-col items-center justify-between space-y-4 sm:flex-row sm:space-y-0">
           <Link to="/">

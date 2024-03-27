@@ -7,7 +7,7 @@ export const HeroTitle = ({ title, subtitle }) => {
         {subtitle}
       </span>
       <span className="absolute top-7 text-3xl font-bold md:top-10 md:text-4xl lg:top-12 lg:text-5xl">
-        {title}
+        {title}{' '}
       </span>
     </h1>
   );
