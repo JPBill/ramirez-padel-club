@@ -571,18 +571,43 @@ export const playersRanking = {
   'S10 Caballeros': [
     {
       name: 'Demarziani Marcos',
-      score: [100, 0, 0, 0, 0],
-      total: 100,
+      score: [100, 100, 0, 0, 0],
+      total: 200,
     },
     {
       name: 'Molina Pablo',
-      score: [100, 0, 0, 0, 0],
-      total: 100,
+      score: [100, 100, 0, 0, 0],
+      total: 200,
     },
     {
       name: 'Peralta Leandro',
-      score: [80, 0, 0, 0, 0],
-      total: 80,
+      score: [80, 40, 0, 0, 0],
+      total: 120,
+    },
+    {
+      name: 'Cavagna Ignacio',
+      score: [60, 60, 0, 0, 0],
+      total: 120,
+    },
+    {
+      name: 'Farias Gaston',
+      score: [60, 60, 0, 0, 0],
+      total: 120,
+    },
+    {
+      name: 'Martinez Juan Jose',
+      score: [60, 40, 0, 0, 0],
+      total: 100,
+    },
+    {
+      name: 'Azcarate Jose',
+      score: [60, 40, 0, 0, 0],
+      total: 100,
+    },
+    {
+      name: 'Martinez Carlos',
+      score: [40, 60, 0, 0, 0],
+      total: 100,
     },
     {
       name: 'Wollert Michel',
@@ -590,29 +615,39 @@ export const playersRanking = {
       total: 80,
     },
     {
-      name: 'Cavagna Ignacio',
-      score: [60, 0, 0, 0, 0],
-      total: 60,
+      name: 'Gadea Facundo',
+      score: [40, 40, 0, 0, 0],
+      total: 80,
     },
     {
-      name: 'Farias Gaston',
-      score: [60, 0, 0, 0, 0],
-      total: 60,
+      name: 'Schmidt Franco',
+      score: [0, 80, 0, 0, 0],
+      total: 80,
     },
     {
-      name: 'Martinez Juan Jose',
-      score: [60, 0, 0, 0, 0],
-      total: 60,
+      name: 'Schmidt Emanuel',
+      score: [0, 80, 0, 0, 0],
+      total: 80,
     },
     {
-      name: 'Azcarate Jose',
-      score: [60, 0, 0, 0, 0],
-      total: 60,
+      name: 'Neif Facundo',
+      score: [10, 60, 0, 0, 0],
+      total: 70,
     },
     {
       name: 'Momparler Tomas',
-      score: [40, 0, 0, 0, 0],
-      total: 40,
+      score: [40, 25, 0, 0, 0],
+      total: 65,
+    },
+    {
+      name: 'Fernandez Manuel',
+      score: [40, 25, 0, 0, 0],
+      total: 65,
+    },
+    {
+      name: 'Randazzo Mateo',
+      score: [25, 25, 0, 0, 0],
+      total: 50,
     },
     {
       name: 'Massera Cristian',
@@ -625,8 +660,8 @@ export const playersRanking = {
       total: 40,
     },
     {
-      name: 'Fernandez Manuel',
-      score: [40, 0, 0, 0, 0],
+      name: 'Riffel Facundo',
+      score: [0, 40, 0, 0, 0],
       total: 40,
     },
     {
@@ -635,13 +670,13 @@ export const playersRanking = {
       total: 40,
     },
     {
-      name: 'Gadea Facundo',
-      score: [40, 0, 0, 0, 0],
+      name: 'Zapata Maximiliano',
+      score: [0, 40, 0, 0, 0],
       total: 40,
     },
     {
-      name: 'Martinez Carlos',
-      score: [40, 0, 0, 0, 0],
+      name: 'Laseras Matias',
+      score: [0, 40, 0, 0, 0],
       total: 40,
     },
     {
@@ -650,8 +685,13 @@ export const playersRanking = {
       total: 40,
     },
     {
-      name: 'Randazzo Mateo',
-      score: [25, 0, 0, 0, 0],
+      name: 'Feit Hugo',
+      score: [0, 40, 0, 0, 0],
+      total: 40,
+    },
+    {
+      name: 'Retamar Andres',
+      score: [0, 25, 0, 0, 0],
       total: 25,
     },
     {
@@ -685,9 +725,39 @@ export const playersRanking = {
       total: 25,
     },
     {
+      name: 'Knoll Gonzalo',
+      score: [0, 25, 0, 0, 0],
+      total: 25,
+    },
+    {
+      name: 'lopez Cristian',
+      score: [0, 25, 0, 0, 0],
+      total: 25,
+    },
+    {
+      name: 'Vacaretti Gonzalo',
+      score: [0, 25, 0, 0, 0],
+      total: 25,
+    },
+    {
       name: 'Maldonado Ruso',
       score: [25, 0, 0, 0, 0],
       total: 25,
+    },
+    {
+      name: 'Schonals Gustavo',
+      score: [10, 10, 0, 0, 0],
+      total: 20,
+    },
+    {
+      name: 'Chaparro Yamil',
+      score: [10, 10, 0, 0, 0],
+      total: 20,
+    },
+    {
+      name: 'Stieben Lothar',
+      score: [10, 10, 0, 0, 0],
+      total: 20,
     },
     {
       name: 'Saralegui Eliseo',
@@ -696,16 +766,6 @@ export const playersRanking = {
     },
     {
       name: 'Wagner Ignacio',
-      score: [10, 0, 0, 0, 0],
-      total: 10,
-    },
-    {
-      name: 'Schonals Gustavo',
-      score: [10, 0, 0, 0, 0],
-      total: 10,
-    },
-    {
-      name: 'Chaparro Yamil',
       score: [10, 0, 0, 0, 0],
       total: 10,
     },
@@ -750,13 +810,38 @@ export const playersRanking = {
       total: 10,
     },
     {
-      name: 'Neif Facundo',
-      score: [10, 0, 0, 0, 0],
+      name: 'Montanari Mariano',
+      score: [0, 10, 0, 0, 0],
       total: 10,
     },
     {
-      name: 'Stieben Lothar',
-      score: [10, 0, 0, 0, 0],
+      name: 'Langui Emiliano',
+      score: [0, 10, 0, 0, 0],
+      total: 10,
+    },
+    {
+      name: 'Otegui Fabricio',
+      score: [0, 10, 0, 0, 0],
+      total: 10,
+    },
+    {
+      name: 'Temporetti Juan',
+      score: [0, 10, 0, 0, 0],
+      total: 10,
+    },
+    {
+      name: 'Roggero Sebastian',
+      score: [0, 10, 0, 0, 0],
+      total: 10,
+    },
+    {
+      name: 'Albornoz Ulises',
+      score: [0, 10, 0, 0, 0],
+      total: 10,
+    },
+    {
+      name: 'Campos Alejandro',
+      score: [0, 10, 0, 0, 0],
       total: 10,
     },
   ],
@@ -925,13 +1010,48 @@ export const playersRanking = {
   'S12 Damas': [
     {
       name: 'Arredondo Yanina',
-      score: [100, 0, 0, 0, 0],
+      score: [100, 80, 0, 0, 0],
+      total: 180,
+    },
+    {
+      name: 'Mingiaca Mercedes',
+      score: [100, 40, 0, 0, 0],
+      total: 140,
+    },
+    {
+      name: 'Senger Celia',
+      score: [25, 100, 0, 0, 0],
+      total: 125,
+    },
+    {
+      name: 'Rodriguez Andrea',
+      score: [25, 100, 0, 0, 0],
+      total: 125,
+    },
+    {
+      name: 'Heffele Clarisa',
+      score: [40, 80, 0, 0, 0],
+      total: 120,
+    },
+    {
+      name: 'Prediger Carolina',
+      score: [40, 60, 0, 0, 0],
       total: 100,
     },
     {
-      name: 'Mingiaca Merces',
-      score: [100, 0, 0, 0, 0],
+      name: 'Zuazaga Maria',
+      score: [40, 60, 0, 0, 0],
       total: 100,
+    },
+    {
+      name: 'Randazzo Carla',
+      score: [60, 25, 0, 0, 0],
+      total: 85,
+    },
+    {
+      name: 'Esquivel Monica',
+      score: [60, 25, 0, 0, 0],
+      total: 85,
     },
     {
       name: 'Ramos Soledad',
@@ -944,6 +1064,11 @@ export const playersRanking = {
       total: 80,
     },
     {
+      name: 'Arrua Mari',
+      score: [40, 25, 0, 0, 0],
+      total: 65,
+    },
+    {
       name: 'Kramer Karen',
       score: [60, 0, 0, 0, 0],
       total: 60,
@@ -954,33 +1079,48 @@ export const playersRanking = {
       total: 60,
     },
     {
-      name: 'Randazzo Carla',
-      score: [60, 0, 0, 0, 0],
+      name: 'Olmedo Ileana',
+      score: [0, 60, 0, 0, 0],
       total: 60,
     },
     {
-      name: 'Esquivel Monica',
-      score: [60, 0, 0, 0, 0],
+      name: 'Zahir Johana',
+      score: [0, 60, 0, 0, 0],
       total: 60,
     },
     {
-      name: 'Prediger Carolina',
-      score: [40, 0, 0, 0, 0],
+      name: 'Graf Angelina',
+      score: [10, 40, 0, 0, 0],
+      total: 50,
+    },
+    {
+      name: 'Lorenzatto Gabriela',
+      score: [0, 40, 0, 0, 0],
       total: 40,
     },
     {
-      name: 'Zuazaga Maria',
-      score: [40, 0, 0, 0, 0],
+      name: 'Florentin Sheila',
+      score: [0, 40, 0, 0, 0],
       total: 40,
     },
     {
-      name: 'Heffele Clarisa',
-      score: [40, 0, 0, 0, 0],
+      name: 'Aguilar Vanesa',
+      score: [0, 40, 0, 0, 0],
       total: 40,
     },
     {
-      name: 'Arrua Mari',
-      score: [40, 0, 0, 0, 0],
+      name: 'Alvarez Josefina',
+      score: [0, 40, 0, 0, 0],
+      total: 40,
+    },
+    {
+      name: 'Herman Nancy',
+      score: [0, 40, 0, 0, 0],
+      total: 40,
+    },
+    {
+      name: 'Cortina Diana',
+      score: [0, 40, 0, 0, 0],
       total: 40,
     },
     {
@@ -1004,6 +1144,26 @@ export const playersRanking = {
       total: 40,
     },
     {
+      name: 'Azcarate Magali',
+      score: [25, 10, 0, 0, 0],
+      total: 35,
+    },
+    {
+      name: 'Riffel Jesica',
+      score: [25, 10, 0, 0, 0],
+      total: 35,
+    },
+    {
+      name: 'Miño Natalia',
+      score: [10, 25, 0, 0, 0],
+      total: 35,
+    },
+    {
+      name: 'Velazquez Pamela',
+      score: [10, 25, 0, 0, 0],
+      total: 35,
+    },
+    {
       name: 'Lampertti Ornela',
       score: [25, 0, 0, 0, 0],
       total: 25,
@@ -1014,42 +1174,42 @@ export const playersRanking = {
       total: 25,
     },
     {
-      name: 'Senger Celia',
-      score: [25, 0, 0, 0, 0],
+      name: 'Peretti Ariadna',
+      score: [0, 25, 0, 0, 0],
       total: 25,
     },
     {
-      name: 'Rodriguez Andrea',
-      score: [25, 0, 0, 0, 0],
+      name: 'Bitz Betiana',
+      score: [0, 25, 0, 0, 0],
       total: 25,
     },
     {
-      name: 'Azcarate Magali',
-      score: [25, 0, 0, 0, 0],
+      name: 'Ringoffler Patricia',
+      score: [0, 25, 0, 0, 0],
       total: 25,
     },
     {
-      name: 'Riffel Jesica',
-      score: [25, 0, 0, 0, 0],
+      name: 'Duro Maria',
+      score: [0, 25, 0, 0, 0],
       total: 25,
+    },
+    {
+      name: 'Botto Vanina',
+      score: [0, 25, 0, 0, 0],
+      total: 25,
+    },
+    {
+      name: 'Clementin Flavia',
+      score: [10, 10, 0, 0, 0],
+      total: 20,
+    },
+    {
+      name: 'Muller Melanie',
+      score: [10, 10, 0, 0, 0],
+      total: 20,
     },
     {
       name: 'Bentancor Irene',
-      score: [10, 0, 0, 0, 0],
-      total: 10,
-    },
-    {
-      name: 'Graf Angelina',
-      score: [10, 0, 0, 0, 0],
-      total: 10,
-    },
-    {
-      name: 'Miño Natalia',
-      score: [10, 0, 0, 0, 0],
-      total: 10,
-    },
-    {
-      name: 'Velazquez Pamela',
       score: [10, 0, 0, 0, 0],
       total: 10,
     },
@@ -1074,13 +1234,38 @@ export const playersRanking = {
       total: 10,
     },
     {
-      name: 'Clementin Flavia',
-      score: [10, 0, 0, 0, 0],
+      name: 'Correa Alejandra',
+      score: [0, 10, 0, 0, 0],
       total: 10,
     },
     {
-      name: 'Muller Melanie',
-      score: [10, 0, 0, 0, 0],
+      name: 'Facciano Carina',
+      score: [0, 10, 0, 0, 0],
+      total: 10,
+    },
+    {
+      name: 'Wasinger Laura',
+      score: [0, 10, 0, 0, 0],
+      total: 10,
+    },
+    {
+      name: 'Gauna Cintia',
+      score: [0, 10, 0, 0, 0],
+      total: 10,
+    },
+    {
+      name: 'Pissano Antonella',
+      score: [0, 10, 0, 0, 0],
+      total: 10,
+    },
+    {
+      name: 'Sola Norma',
+      score: [0, 10, 0, 0, 0],
+      total: 10,
+    },
+    {
+      name: 'Fernandez Daniela',
+      score: [0, 10, 0, 0, 0],
       total: 10,
     },
   ],
